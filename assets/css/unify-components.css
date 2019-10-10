@@ -1383,7 +1383,8 @@ hr {
 .u-go-to-v1:hover, .u-go-to-v1:focus:hover {
   text-decoration: none;
   color: #fff;
-  background-color: #72c02c;
+  background-color: #f3c30e;
+  /* background-color: #72c02c; */
 }
 
 .u-go-to-v1:focus {
