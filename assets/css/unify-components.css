@@ -1918,7 +1918,7 @@ hr {
 .u-header__section--primary--shift.js-header-change-moment .navbar-nav:not([class*="u-main-nav-v"]) .active > .nav-link,
 .u-header__section--primary--shift.js-header-change-moment .navbar-nav:not([class*="u-main-nav-v"]) .nav-link.open,
 .u-header__section--primary--shift.js-header-change-moment .navbar-nav:not([class*="u-main-nav-v"]) .nav-link.active {
-  color: #fff;
+  color: #f3c30e;
 }
 
 .u-header__section--dark .navbar-toggler,
